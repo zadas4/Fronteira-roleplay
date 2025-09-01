@@ -242,20 +242,4 @@
         <li>Emergências devem ter respostas rápidas e realistas.</li>
         <li>Colabore para criar histórias imersivas.</li>
         <li>Evite quebrar regras RP durante eventos.</li>
-        <li>Use habilidades e equipamentos de forma adequada.</li>
-        <li>Evite ações irreais que desestabilizem eventos.</li>
-        <li>Conflitos em eventos devem seguir lógica RP.</li>
-        <li>Evite prejudicar outros jogadores propositalmente em eventos.</li>
-        <li>Personagens devem reagir realisticamente a situações críticas.</li>
-        <li>Eventos especiais devem ser respeitados e valorizados.</li>
-        <li>Cada ação em eventos deve ter consequência RP.</li>
-        <li>Evite interferir em narrativas planejadas de forma injusta.</li>
-        <li>Colabore para manter a narrativa contínua e envolvente.</li>
-        <li>Eventos e emergências devem ser usados para diversão RP, não para abuso.</li>
-        <li>Toda ação RP dentro do servidor deve contribuir para a imersão geral.</li>
-    </ol>
-</section>
-
-</main>
-</body>
-</html>
+        <li>Use habilidades e equipamentos de 
